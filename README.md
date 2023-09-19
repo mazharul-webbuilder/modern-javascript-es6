@@ -1,1 +1,1 @@
-# modern-javascript-es6
+## Modern JavaScript ES6
